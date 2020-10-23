@@ -1,1 +1,1 @@
-This is Jenkins pipeline shell script.
+ehco "This is Jenkins pipeline shell script."
